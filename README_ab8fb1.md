@@ -5,3 +5,5 @@ var Version = "1.0.0"
 # tiny helper
 print('ok')
 func main() { println("hi") }
+
+# a04b4b
